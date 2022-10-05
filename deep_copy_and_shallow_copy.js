@@ -49,7 +49,6 @@ user.name = "Manish";
 console.warn(" objetc is  " ,ShallowObj1);
 console.warn(" user is  " ,user);
 
-/*
 
 let deepObj = {
     name : 'anish',
@@ -65,8 +64,7 @@ user.name = "Manish";
 console.warn(" objetc is  " ,deepObj);
 console.warn(" user is  " ,user);
 
-
-
+/*
 let deepObj1 = {
     name : 'anish',
     address : {
